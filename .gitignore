@@ -1,0 +1,11 @@
+# Data, weights and outputs are not tracked.
+data/
+artifacts/
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
